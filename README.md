@@ -1,6 +1,6 @@
 
 ![](https://github.com/Abusooma/Abusooma/blob/main/person.png)
-# Hi there 👋 I'm Aboubacar Soumah
+# Aboubacar Soumah 👨🏿‍💻
 I'm Specialize in software engineering with a focus on Python. I have a strong passion for web development using Django and am skilled in data scraping and analysis.
 I thoroughly enjoy learning new programming languages and frameworks.
 I'm always eager to explore new technologies and continuously improve my skills. Whether it's working on backend development, creating APIs, or diving into data analysis, I thrive on solving complex problems and delivering high-quality solutions.
