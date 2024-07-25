@@ -13,9 +13,12 @@ I'm always eager to explore new technologies and continuously improve my skills.
 * 🖥️ HTML, CSS, JS
 
 ## Examples of work
-<img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%20(1).gif" width="256" />
-<img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%203.gif" width="256" />
-<img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me_projet2.gif" width="256" />
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%20(1).gif" width="30%" />
+  <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%203.gif" width="30%" />
+  <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me_projet2.gif" width="30%" />
+</div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Abusooma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aboubacarsoumah//)  
 
