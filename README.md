@@ -14,18 +14,24 @@ I'm always eager to explore new technologies and continuously improve my skills.
 
 ## Examples of work
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <div style="text-align: center; width: 32%;">
-    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%20(1).gif" width="100%" style="border: 1px solid #ddd; border-radius: 4px;" />
-    <p style="margin: 5px 0; font-size: 14px;">Projet 1</p>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div style="width: 30%; background-color: white; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden;">
+    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%20(1).gif" width="100%" style="display: block;" />
+    <div style="padding: 10px;">
+      <h3 style="margin: 0; font-size: 16px; text-align: center;">Projet 1</h3>
+    </div>
   </div>
-  <div style="text-align: center; width: 32%;">
-    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%203.gif" width="100%" style="border: 1px solid #ddd; border-radius: 4px;" />
-    <p style="margin: 5px 0; font-size: 14px;">Projet 2</p>
+  <div style="width: 30%; background-color: white; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden;">
+    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%203.gif" width="100%" style="display: block;" />
+    <div style="padding: 10px;">
+      <h3 style="margin: 0; font-size: 16px; text-align: center;">Projet 2</h3>
+    </div>
   </div>
-  <div style="text-align: center; width: 32%;">
-    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me_projet2.gif" width="100%" style="border: 1px solid #ddd; border-radius: 4px;" />
-    <p style="margin: 5px 0; font-size: 14px;">Projet 3</p>
+  <div style="width: 30%; background-color: white; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden;">
+    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me_projet2.gif" width="100%" style="display: block;" />
+    <div style="padding: 10px;">
+      <h3 style="margin: 0; font-size: 16px; text-align: center;">Projet 3</h3>
+    </div>
   </div>
 </div>
 
