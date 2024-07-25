@@ -15,17 +15,13 @@ I'm always eager to explore new technologies and continuously improve my skills.
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/Abusooma/projet1">
         <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%20(1).gif" width="100%"><br>
         <b>Construction Project Tracking Platform</b>
-      </a>
       <p>Allows companies to manage construction projects by adding employees, departments, clients, and projects. Provides tools for task tracking and progress updates, with the ability for clients to view real-time project progress, including images</p>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Abusooma/projet3">
         <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me_projet2.gif" width="100%"><br>
         <b>Industrial Production Tracker</b>
-      </a>
       <p>Enables companies to enter and manage industrial production data (line, sector, production duration, stoppages, etc.), including deleting and updating records. It allows users to view production reports with graphs in PDF format (daily, weekly, and monthly reports) and ensures accurate data calculations.</p>
     </td>
   </tr>
