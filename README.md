@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Aboubacar Soumah
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/Abusooma/Abusooma/blob/main/github_profil.png)
 
 Specialize in software engineering with a focus on Python. I have a strong passion for web development using Django and am skilled in data scraping and analysis.
 I thoroughly enjoy learning new programming languages and frameworks.
