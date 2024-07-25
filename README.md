@@ -12,5 +12,8 @@ I'm always eager to explore new technologies and continuously improve my skills.
 * 📊 Data Analysis
 * 🖥️ HTML, CSS, JS
 
+## Examples of work
+<img src="" width="256" />
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Abusooma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aboubacarsoumah//)  
 
