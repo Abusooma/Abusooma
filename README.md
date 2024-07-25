@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Aboubacar Soumah
+### Hi there 👋
 ![](https://github.com/Abusooma/Abusooma/blob/main/github_profil.png)
 
 Specialize in software engineering with a focus on Python. I have a strong passion for web development using Django and am skilled in data scraping and analysis.
