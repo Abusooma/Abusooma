@@ -14,27 +14,18 @@ I'm always eager to explore new technologies and continuously improve my skills.
 
 ## Examples of work
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden; width: 30%;">
-    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%20(1).gif" width="100%" style="display: block;" />
-    <div style="padding: 15px;">
-      <h3 style="margin: 0 0 10px; color: #333;">Projet 1</h3>
-      <p style="font-size: 14px; color: #666; margin: 0;">Brève description du Projet 1. Expliquez en quelques mots ce que fait ce projet et les technologies utilisées.</p>
-    </div>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <div style="text-align: center; width: 32%;">
+    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%20(1).gif" width="100%" style="border: 1px solid #ddd; border-radius: 4px;" />
+    <p style="margin: 5px 0; font-size: 14px;">Projet 1</p>
   </div>
-  <div style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden; width: 30%;">
-    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%203.gif" width="100%" style="display: block;" />
-    <div style="padding: 15px;">
-      <h3 style="margin: 0 0 10px; color: #333;">Projet 2</h3>
-      <p style="font-size: 14px; color: #666; margin: 0;">Brève description du Projet 2. Mettez en avant les points clés et les compétences démontrées.</p>
-    </div>
+  <div style="text-align: center; width: 32%;">
+    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%203.gif" width="100%" style="border: 1px solid #ddd; border-radius: 4px;" />
+    <p style="margin: 5px 0; font-size: 14px;">Projet 2</p>
   </div>
-  <div style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden; width: 30%;">
-    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me_projet2.gif" width="100%" style="display: block;" />
-    <div style="padding: 15px;">
-      <h3 style="margin: 0 0 10px; color: #333;">Projet 3</h3>
-      <p style="font-size: 14px; color: #666; margin: 0;">Brève description du Projet 3. Expliquez l'objectif du projet et son impact potentiel.</p>
-    </div>
+  <div style="text-align: center; width: 32%;">
+    <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me_projet2.gif" width="100%" style="border: 1px solid #ddd; border-radius: 4px;" />
+    <p style="margin: 5px 0; font-size: 14px;">Projet 3</p>
   </div>
 </div>
 
