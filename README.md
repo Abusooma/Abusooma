@@ -7,7 +7,7 @@ I'm Specialize in software engineering with a focus on Python. I have a strong p
 * 🖥️  See my portfolio at [myportfolio-aboubacar-dev](http://myportfolio-aboubacar-dev)
 * ✉️  You can contact me at [soumahaboubacarsopra@gmail.com](mailto:soumahaboubacarsopra@gmail.com)
 * 🚀  I'm currently working on [Payroll Application](http://github.com/Abusooma/payroll-app)
-* 🧠  I'm learning Django Rest Framework , JS and Machine Learning
+* 🧠  I'm learning Django Rest Framework , Javascript and Machine Learning
 * 🤝  I'm open to collaborating on Cloud Applications, Interactive VR Environments, Generative IA
 
 ### Skills
