@@ -43,5 +43,3 @@ I'm Specialize in software engineering with a focus on Python. I have a strong p
     </td>
   </tr>
 </table>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abusooma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aboubacarsoumah/)
