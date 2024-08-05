@@ -1,4 +1,3 @@
-# Aboubacar Soumah 👨🏿‍💻
 ![I am GitHub Readme Generator's creator](https://github.com/Abusooma/Abusooma/blob/main/person.png)
 I'm Specialize in software engineering with a focus on Python. I have a strong passion for web development using Django and am skilled in data scraping and analysis.
 I thoroughly enjoy learning new programming languages and frameworks.
