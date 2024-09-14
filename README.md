@@ -1,192 +1,305 @@
-<h1 align="center">
-  <img src="https://fontmeme.com/permalink/240914/7a76db6f1e9dfd1bf7c7a5a88fdf77fe.png" alt="Abubacar" width="100%">
+# <h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F78E15&center=true&vCenter=true&width=635&lines=Bienvenue+dans+mon+univers+tech+!;Je+suis+Abubacar;Python+Backend+Virtuose;Architecte+de+Données;Innovateur+Technologique" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
   <a href="https://github.com/Abusooma">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Backend+Virtuoso+%F0%9F%90%8D;Data+Alchemist+%F0%9F%94%AE;Code+Architect+%F0%9F%8F%97%EF%B8%8F;Tech+Explorer+%F0%9F%8C%8C&center=true&width=380&height=45">
+    <img src="https://img.shields.io/github/followers/Abusooma?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/aboubacarsoumah">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Abusooma&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aboubacarsoumah/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Abusooma">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://my-portfolio-woad-nine-97.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:soumahaboubacarsopra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<details open>
+  <summary><h2>🌌 Exploration de Mon Univers Tech</h2></summary>
+  <br>
+  <p align="center">
+    <img src="https://media.giphy.com/media/l3KSVaVAZlzulkTcbjW/giphy.gif" width="100%">
+  </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">🚀 Voyage Technologique</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3DUi4oFBFG0ik9MjqJ/giphy.gif" width="30%">
-</p>
-
-```mermaid
-graph TD
-    A[Début du Voyage] -->|Passion pour le Code| B(Python Mastery)
-    B --> C{Spécialisation}
-    C -->|Backend| D[Django Expertise]
-    C -->|Data| E[Scraping & Analysis]
-    C -->|Cloud| F[DevOps Skills]
-    D & E & F --> G[Innovation Continue]
-    G --> H{Projets Actuels}
-    H -->|Application| I[Payroll System]
-    H -->|Research| J[AI Integration]
-    H -->|Open Source| K[Community Contributions]
-    I & J & K --> L[Impact Technologique]
-```
-
-<h2 align="center">🛠️ Arsenal Technologique</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,postgres,mysql,git,linux,vscode&perline=5" />
-</p>
-
-<details>
-<summary><h3>🔍 Plongée Profonde</h3></summary>
-<br>
-
-| Catégorie | Technologies |
-|-----------|--------------|
-| 🐍 Langages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| 🧰 Frameworks | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
-| 🗄️ Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| ☁️ Cloud | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| 🧠 ML/AI | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| 🔧 Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+  ```mermaid
+  mindmap
+    root((Abubacar))
+      Python
+        Django
+        Flask
+        FastAPI
+      Data Science
+        Scraping
+        Analysis
+        Visualization
+      Cloud & DevOps
+        AWS
+        Docker
+        CI/CD
+      Web Development
+        Frontend
+          HTML/CSS
+          JavaScript
+        Backend
+          RESTful APIs
+          GraphQL
+      Machine Learning
+        TensorFlow
+        Scikit-learn
+      Database
+        PostgreSQL
+        MongoDB
+        Redis
+  ```
 
 </details>
 
-<h2 align="center">📊 Impact Quantifié</h2>
+<details>
+  <summary><h2>🛠️ Arsenal Technologique Interactif</h2></summary>
+  <br>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>Python
+        </td>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>Django
+        </td>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>AWS
+        </td>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>Docker
+        </td>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>Rest API
+        </td>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>GitHub
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>JavaScript
+        </td>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>PostgreSQL
+        </td>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>TensorFlow
+        </td>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>Nginx
+        </td>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>Elasticsearch
+        </td>
+        <td align="center" width="100">
+          <a href="#">
+            <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>GraphQL
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abusooma&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abusooma&theme=radical&hide_border=true" />
-</div>
+<details open>
+  <summary><h2>📊 Tableau de Bord des Performances</h2></summary>
+  <br>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Abusooma&show_icons=true&theme=radical&hide_border=true" alt="Abubacar's GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abusooma&theme=radical&hide_border=true" alt="Abubacar's GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Abusooma&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Abubacar's Trophies" />
+      </td>
+    </tr>
+  </table>
+
+  <h3 align="center">Contribution Heatmap</h3>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abusooma&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%"/>
+  </p>
+
+</details>
+
+<details>
+  <summary><h2>🚀 Projets Phares & Démonstrations</h2></summary>
+  <br>
+  
+  <div align="center">
+    <a href="https://github.com/Abusooma/payroll-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abusooma&repo=payroll-app&theme=radical" alt="Payroll App" />
+    </a>
+    <a href="https://github.com/Abusooma/project-tracker">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abusooma&repo=project-tracker&theme=radical" alt="Project Tracker" />
+    </a>
+  </div>
+
+  <h3 align="center">🎥 Démonstrations Interactives</h3>
+
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Construction Project Tracker</h3>
+        <p align="center">
+          <a href="https://github.com/Abusooma/project-tracker" target="_blank">
+            <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%20(1).gif" width="100%" alt="Project Tracker"/>
+          </a>
+        </p>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/-Voir%20Démo-960018?style=for-the-badge&logo=Youtube&logoColor=white"/>
+          </a>
+          <a href="https://github.com/Abusooma/project-tracker" target="_blank">
+            <img src="https://img.shields.io/badge/-Code%20Source-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Industrial Production Tracker</h3>
+        <p align="center">
+          <a href="https://github.com/Abusooma/industrial-tracker" target="_blank">
+            <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me_projet2.gif" width="100%" alt="Industrial Tracker"/>
+          </a>
+        </p>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/-Voir%20Démo-960018?style=for-the-badge&logo=Youtube&logoColor=white"/>
+          </a>
+          <a href="https://github.com/Abusooma/industrial-tracker" target="_blank">
+            <img src="https://img.shields.io/badge/-Code%20Source-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><h2>📚 Publications & Insights</h2></summary>
+  <br>
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  </p>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/Django%20at%20Scale:-00C7B7?style=flat-square"/> <img src="https://img.shields.io/badge/Performance%20Optimization%20Strategies-47A248?style=flat-square"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/The%20Art%20of%20Ethical%20Scraping:-00C7B7?style=flat-square"/> <img src="https://img.shields.io/badge/Python's%20Role%20in%20Data%20Collection-3776AB?style=flat-square"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning%20Integration:-00C7B7?style=flat-square"/> <img src="https://img.shields.io/badge/From%20Django%20to%20AI%20Powerhouse-FF6F00?style=flat-square"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/RESTful%20API%20Design:-00C7B7?style=flat-square"/> <img src="https://img.shields.io/badge/Best%20Practices%20with%20Django%20REST%20Framework-092E20?style=flat-square"/></a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details open>
+  <summary><h2>🌠 Vision 2024 & Au-delà</h2></summary>
+  <br>
+  <p align="center">
+    <img src="https://media.giphy.com/media/3ohs4jnnmnxfkYbGsM/giphy.gif" width="50%">
+  </p>
+
+  ```mermaid
+  timeline
+    title Feuille de Route Technologique
+    2024 Q1 : Maîtrise Django REST Framework : Création d'APIs robustes et scalables
+             : Exploration approfondie de GraphQL
+    2024 Q2 : Certification AWS Solution Architect
+             : Implémentation de systèmes distribués
+    2024 Q3 : Contribution majeure à un projet open-source Django
+             : Développement d'un framework de ML pour l'analyse prédictive
+    2024 Q4 : Création d'une série de tutoriels vidéo sur l'optimisation Django
+             : Lancement d'un SaaS basé sur l'IA pour l'industrie
+    2025    : Conférencier dans des événements tech majeurs
+             : Mentor pour la nouvelle génération de développeurs
+  ```
+
+</details>
+
+<h2 align="center">🤝 Collaborons sur l'Avenir Tech</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abusooma&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abusooma&theme=radical" width="100%" alt="Activity Graph" align="middle" />
-</p>
-
-<h2 align="center">🏗️ Projets Phares</h2>
-
-<div align="center">
-<a href="https://github.com/Abusooma/payroll-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abusooma&repo=payroll-app&theme=radical" alt="Payroll App" />
-</a>
-<a href="https://github.com/Abusooma/project-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abusooma&repo=project-tracker&theme=radical" alt="Project Tracker" />
-</a>
-</div>
-
-<h3 align="center">🎥 Démonstrations Visuelles</h3>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Construction Project Tracker</h3>
-      <p align="center">
-        <a href="https://github.com/Abusooma/project-tracker">
-          <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me%20(1).gif" alt="Project 1" width="100%" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Abusooma/project-tracker">
-          <img src="https://img.shields.io/badge/VOIR_DÉMO-5C37FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Voir Démo" />
-        </a>
-        <a href="https://github.com/Abusooma/project-tracker">
-          <img src="https://img.shields.io/badge/CODE-FF495D?style=for-the-badge&logo=github&logoColor=white" alt="Voir Code" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Industrial Production Tracker</h3>
-      <p align="center">
-        <a href="https://github.com/Abusooma/industrial-tracker">
-          <img src="https://github.com/Abusooma/Abusooma/blob/main/gifmaker_me_projet2.gif" alt="Project 2" width="100%" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Abusooma/industrial-tracker">
-          <img src="https://img.shields.io/badge/VOIR_DÉMO-22C55E?style=for-the-badge&logo=netlify&logoColor=white" alt="Voir Démo" />
-        </a>
-        <a href="https://github.com/Abusooma/industrial-tracker">
-          <img src="https://img.shields.io/badge/CODE-FF495D?style=for-the-badge&logo=github&logoColor=white" alt="Voir Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">📚 Articles & Insights</h2>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
-</p>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/Django_Performance_Optimization-47A248?style=flat-square&logo=django&logoColor=white" /></a>
-    </td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/Ethical_Web_Scraping_with_Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/Machine_Learning_in_Django_Apps-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></a>
-    </td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/Building_Robust_APIs_with_DRF-092E20?style=flat-square&logo=django&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">🌟 Objectifs 2024</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</p>
-
-```mermaid
-gantt
-    title Roadmap 2024
-    dateFormat  YYYY-MM-DD
-    section Django
-    Maîtriser DRF           :2024-01-01, 90d
-    section ML/AI
-    Approfondir TensorFlow  :2024-03-01, 120d
-    section Open Source
-    Contribuer à Django     :2024-05-01, 60d
-    section Cloud
-    Certification AWS       :2024-07-01, 90d
-    section Innovation
-    Projet VR/AR            :2024-09-01, 120d
-```
-
-<h2 align="center">🤝 Collaborons</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>J'adore connecter avec différentes personnes, alors si vous voulez dire bonjour, je serais ravi de vous rencontrer plus! :)</em>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"><br>
+  <i>L'innovation naît de la collaboration. Ensemble, créons quelque chose d'extraordinaire!</i>
 </p>
 
 <p align="center">
-  <a href="mailto:soumahaboubacarsopra@gmail.com"><img src="https://img.shields.io/badge/Envoyez_moi_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aboubacarsoumah/"><img src="https://img.shields.io/badge/Connectons_nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://my-portfolio-woad-nine-97.vercel.app/"><img src="https://img.shields.io/badge/Explorez_mon_portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:soumahaboubacarsopra@gmail.com">
+    <img src="https://img.shields.io/badge/Discutons%20de%20Votre%20Projet-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aboubacarsoumah/">
+    <img src="https://img.shields.io/badge/Connectons%20Nos%20Idées-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Abusooma">
+    <img src="https://img.shields.io/badge/Explorons%20le%20Code%20Ensemble-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<hr>
+
+<p align="center">
+  <i>"Le code est poésie, l'innovation est art. Ensemble, créons un chef-d'œuvre technologique."</i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+</p>
+
+<h4 align="center">Merci d'avoir exploré mon univers tech. À bientôt pour de nouvelles aventures numériques ! 🚀</h4>
