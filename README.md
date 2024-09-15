@@ -1,8 +1,8 @@
 <div align="center">
   
-# 🌟 Abubacar Soumah | Software Engineer Extraordinaire 🚀
+# 🌌 Abubacar Soumah | Architecte du Code Cosmique 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Backend+Virtuoso+%F0%9F%8E%BB;Data+Alchemist+%F0%9F%A7%AA;Cloud+Explorer+%E2%98%81%EF%B8%8F;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Software+Engineer+Extraordinaire;Backend+Virtuoso+%F0%9F%8E%BB;Data+Alchemist+%F0%9F%A7%AA;Cloud+Explorer+%E2%98%81%EF%B8%8F;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
@@ -10,151 +10,116 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Abusooma?style=social)](https://github.com/Abusooma)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AbubacarSoumah?style=social)](https://twitter.com/AbubacarSoumah)
+[![GitHub followers](https://img.shields.io/github/followers/Abusooma?style=for-the-badge&color=000000)](https://github.com/Abusooma)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AbubacarSoumah?style=for-the-badge&color=000000)](https://twitter.com/AbubacarSoumah)
 
 </div>
 
-## 🧬 Tech DNA: Where Code Meets Innovation
+## 🌠 Constellation de Compétences
 
-```mermaid
-mindmap
-  root((Abubacar))
-    Backend
-      Python
-        Django
-        FastAPI
-      API Development
-        DRF
-    Data
-      Web Scraping
-      Data Analysis
-    Frontend
-      JavaScript
-      HTML/CSS
-    Cloud & DevOps
-      AWS
-      Docker
-    AI & ML
-      Machine Learning
-      TensorFlow
+```ascii
+   Python     .''.     Django     .''.    FastAPI
+     .''.   .'    '.     .''.   .'    '.    .''.
+ .'      '. '      ' .'      '. '      ' .'      '.
+    .''.     '.....'    .''.     '.....'    .''.
+ .'    '.  JavaScript .'    '.    AWS    .'    '.
+ '      ' .'      '.  '      ' .'      '. '      '
+  '.....'    .''.     '.....'    .''.     '.....'
+ Docker   .'    '.   Data    .'    '.   Machine
+         '      '  Analysis '      '   Learning
+          '.....'           '.....'
 ```
 
-## 🚀 Projet Showcase: Coding Marvels Unleashed
+## 🚀 Odyssée du Code : Projets Phares
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">DjangoVerse Explorer</h3>
-      <img src="https://via.placeholder.com/300x200.png?text=DjangoVerse+Explorer" alt="DjangoVerse Explorer"/>
+      <h3 align="center">🌐 QuantumWeb Framework</h3>
       <p align="center">
-        Navigateur multidimensionnel des possibilités de Django.
+        Un framework web qui transcende les limites classiques du développement.
         <br><br>
-        <a href="https://github.com/Abusooma/djangoverse-explorer">
-          <img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Django-Quantum-000000?style=flat-square&logo=django&logoColor=white">
         </a>
         <a href="#">
-          <img src="https://img.shields.io/badge/API-RESTful-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a">
+          <img src="https://img.shields.io/badge/API-Entangled-000000?style=flat-square&logo=fastapi&logoColor=white">
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">DataSculptor AI</h3>
-      <img src="https://via.placeholder.com/300x200.png?text=DataSculptor+AI" alt="DataSculptor AI"/>
+      <h3 align="center">🧠 NeuraSphere</h3>
       <p align="center">
-        Plateforme de modélisation IA pour données complexes.
+        Plateforme d'IA qui fusionne l'apprentissage profond avec l'intuition humaine.
         <br><br>
-        <a href="https://github.com/Abusooma/datasculptor-ai">
-          <img src="https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a">
+        <a href="#">
+          <img src="https://img.shields.io/badge/AI-Synergized-000000?style=flat-square&logo=tensorflow&logoColor=white">
         </a>
         <a href="#">
-          <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a">
+          <img src="https://img.shields.io/badge/Cloud-Nebulous-000000?style=flat-square&logo=amazon-aws&logoColor=white">
         </a>
       </p>
     </td>
   </tr>
 </table>
 
-## 💻 Code Wizardry: My Tech Arsenal
+## 💻 Arsenal Technologique
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Maestro-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Ninja-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-Explorer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Adept-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Cosmique-000000?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Galactique-000000?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Superluminique-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Stellaire-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Nébuleux-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Orbital-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-Quantique-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
-## 📊 GitHub Skyline: A Year in Code
+## 📊 Cartographie de l'Univers GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abusooma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abubacar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abusooma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=000000&bg_color=1d1f21" alt="Carte Stellaire d'Abubacar" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abusooma&theme=dark" alt="Abubacar's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abusooma&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Trajectoire Interstellaire d'Abubacar" />
 </div>
 
-## 🌟 Contribution Constellation
+## 🌌 Mission Actuelle : Exploration des Frontières Numériques
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#2bbc8a', 'edgeLabelBackground':'#2bbc8a', 'tertiaryColor': '#fff'}}}%%
-gitGraph
-   commit
-   commit
-   branch feature/ai-integration
-   checkout feature/ai-integration
-   commit
-   commit
-   checkout main
-   merge feature/ai-integration
-   commit
-   commit
-   branch hotfix/security-patch
-   checkout hotfix/security-patch
-   commit
-   checkout main
-   merge hotfix/security-patch
-   commit
-```
+🔭 Je suis en train de forger une nouvelle génération d'applications web qui fusionnent l'IA et le cloud computing.
 
-## 🚀 Current Mission: Pioneering the AI Frontier
+🌱 J'explore les dimensions inconnues du deep learning et du NLP pour créer des interfaces homme-machine révolutionnaires.
 
-🔭 Actuellement, je travaille sur l'intégration de modèles de Machine Learning avancés dans des applications web Django robustes.
+👯 Je recherche des co-explorateurs pour des missions open-source aux confins de l'innovation technologique.
 
-🌱 J'apprends les dernières techniques en Deep Learning et en traitement du langage naturel pour créer des solutions IA plus intelligentes et intuitives.
+💬 Engageons une discussion sur l'architecture quantique des microservices, l'optimisation relativiste de Django, ou l'impact de l'IA sur la trame spatio-temporelle du développement logiciel !
 
-👯 Je cherche à collaborer sur des projets open-source innovants qui repoussent les limites de la technologie.
-
-💬 Discutons de l'architecture des microservices, de l'optimisation des performances Django, ou de la façon dont l'IA transforme le développement logiciel !
-
-## 📬 Let's Connect and Create Something Extraordinary!
+## 📡 Établissons un Contact Intergalactique
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacarsoumah/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbubacarSoumah)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abusooma)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumahaboubacarsopra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connexion_Quantique-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacarsoumah/)
+[![Twitter](https://img.shields.io/badge/Twitter-Flux_Cosmique-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbubacarSoumah)
+[![GitHub](https://img.shields.io/badge/GitHub-Référentiel_Stellaire-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abusooma)
+[![Email](https://img.shields.io/badge/Email-Transmission_Subspaciale-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumahaboubacarsopra@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Citation Cosmique Aléatoire"/>
 </div>
 
 <div align="center">
   
-> "Le code est ma toile, la logique mon pinceau, et chaque projet une œuvre d'art en devenir." - Abubacar Soumah
+> "Dans l'infini du code, chaque ligne est une étoile, chaque projet une galaxie à explorer." - Abubacar Soumah
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
 </div>
