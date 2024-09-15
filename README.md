@@ -21,8 +21,6 @@
   <img src="./expertise_technique.svg" alt="Carte d'Expertise Technique d'Abubacar Soumah"/>
 </div>
 
-> Note: Cette image est un placeholder. Vous devriez remplacer ceci par une infographie personnalisée montrant vos domaines d'expertise de manière visuelle et impactante.
-
 ## 🚀 Projets Phares
 
 <table>
