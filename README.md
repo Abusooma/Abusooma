@@ -18,7 +18,7 @@
 ## 💼 Expertise Technique
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Carte+d'Expertise+Technique" alt="Carte d'Expertise Technique"/>
+  <img src="./expertise_technique.svg" alt="Carte d'Expertise Technique d'Abubacar Soumah"/>
 </div>
 
 > Note: Cette image est un placeholder. Vous devriez remplacer ceci par une infographie personnalisée montrant vos domaines d'expertise de manière visuelle et impactante.
