@@ -45,16 +45,25 @@ me.say_hi()
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abusooma&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🚀 Projets Phares
+## 🎓 Certifications & Formation
 
 <div align="center">
-  <a href="https://github.com/Abusooma?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abusooma&repo=VOTRE_REPO_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Abusooma?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abusooma&repo=VOTRE_REPO_2&theme=tokyonight&hide_border=true" />
-  </a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-Professional_Certificate-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 </div>
+
+## 🎯 Objectifs 2024-2025
+
+```mermaid
+graph LR
+    A[Expertise IA] --> B[Développer des solutions IA innovantes]
+    B --> C[Impact sociétal positif]
+    D[Cloud Native] --> E[Architecture scalable]
+    E --> F[Performance & Sécurité]
+    G[Open Source] --> H[Contribution active]
+    H --> I[Partage de connaissances]
+```
 
 ## 🌟 Domaines d'Expertise
 
@@ -74,6 +83,33 @@ mindmap
       Docker
       DevOps
 ```
+
+## 📚 Articles & Publications
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Intelligence Artificielle</h3>
+        <p align="center">
+          <a href="#">Découvrez mes réflexions sur l'IA</a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Architecture Cloud</h3>
+        <p align="center">
+          <a href="#">Explorez mes guides techniques</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌐 Impact & Contributions
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=4C9EEB&center=true&vCenter=true&width=600&lines=+3%2B+années+d'expérience+en+AI;+5%2B+projets+majeurs+livrés;+Contribution+active+à+la+communauté" alt="Contributions" />
+</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
