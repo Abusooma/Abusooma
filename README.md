@@ -83,34 +83,6 @@ mindmap
       Docker
       DevOps
 ```
-
-## 📚 Articles & Publications
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Intelligence Artificielle</h3>
-        <p align="center">
-          <a href="#">Découvrez mes réflexions sur l'IA</a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Architecture Cloud</h3>
-        <p align="center">
-          <a href="#">Explorez mes guides techniques</a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🌐 Impact & Contributions
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=4C9EEB&center=true&vCenter=true&width=600&lines=+3%2B+années+d'expérience+en+AI;+5%2B+projets+majeurs+livrés;+Contribution+active+à+la+communauté" alt="Contributions" />
-</div>
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
