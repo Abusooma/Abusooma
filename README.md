@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3500&pause=1000&color=4C9EEB&center=true&vCenter=true&width=800&lines=Bonjour%2C+Je+suis+Abubacar+Soumah;Software+Engineer+%7C+AI+Specialist;Building+the+Future+with+Code" alt="Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3500&pause=1000&color=4C9EEB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abubacar+Soumah;Software+Engineer+%7C+AI+Specialist;Building+the+Future+with+Code" alt="Introduction" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Software_Development-★★★★★-0E76A8?style=for-the-badge&labelColor=000000"/>
 </div>
 
-## 🎯 Focus Actuel
+## 🎯 Current Focus
 
 ```python
 class SoftwareEngineer:
@@ -26,13 +26,13 @@ class SoftwareEngineer:
         self.language_spoken = ["fr_FR", "en_US"]
         
     def say_hi(self):
-        print("Merci de visiter mon profil! Ensemble, construisons quelque chose d'extraordinaire!")
+        print("Thanks for visiting my profile! Let's build something extraordinary together!")
 
 me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 💻 Stack Technique
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,aws,docker,tensorflow,git,vscode&theme=dark" />
@@ -45,7 +45,7 @@ me.say_hi()
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abusooma&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🎓 Certifications & Formation
+## 🎓 Certifications & Education
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
@@ -53,19 +53,19 @@ me.say_hi()
   <a href="#"><img src="https://img.shields.io/badge/Python-Professional_Certificate-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 </div>
 
-## 🎯 Objectifs 2024-2025
+## 🎯 Goals 2024-2025
 
 ```mermaid
 graph LR
-    A[Expertise IA] --> B[Développer des solutions IA innovantes]
-    B --> C[Impact sociétal positif]
-    D[Cloud Native] --> E[Architecture scalable]
-    E --> F[Performance & Sécurité]
-    G[Open Source] --> H[Contribution active]
-    H --> I[Partage de connaissances]
+    A[AI Expertise] --> B[Develop Innovative AI Solutions]
+    B --> C[Positive Social Impact]
+    D[Cloud Native] --> E[Scalable Architecture]
+    E --> F[Performance & Security]
+    G[Open Source] --> H[Active Contribution]
+    H --> I[Knowledge Sharing]
 ```
 
-## 🌟 Domaines d'Expertise
+## 🌟 Areas of Expertise
 
 ```mermaid
 mindmap
@@ -83,6 +83,7 @@ mindmap
       Docker
       DevOps
 ```
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
