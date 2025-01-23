@@ -1,45 +1,40 @@
 # Abubacar Soumah
-### Software Engineer & AI Specialist
+> Software Engineer & AI Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacarsoumah/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:soumahaboubacarsopra@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AbubacarSoumah)
+
+### 🛠️ Technologies
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aboubacarsoumah/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:soumahaboubacarsopra@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/AbubacarSoumah"><img src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
-### Expertise
-- AI Engineering
-- Cloud Architecture 
-- Software Development
+### 🎯 Focus
 
-### Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,aws,docker,tensorflow,git,vscode&theme=dark" />
-</div>
-
-### Certifications
-- AWS Solutions Architect Associate
-- TensorFlow Developer
-- Python Professional Certificate
-
-### Focus Areas 2024-2025
 ```mermaid
 mindmap
-  root((Skills))
-    AI & ML
+  root((AI & Cloud))
+    Machine Learning
       Deep Learning
-      NLP
       Computer Vision
-    Backend
-      Python
-      Django
-      FastAPI
-    Cloud
+      NLP
+    Cloud Native
       AWS
       Docker
-      DevOps
+      Microservices
 ```
 
+### 📊 Stats
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abusooma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abusooma&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
