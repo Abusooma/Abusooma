@@ -22,7 +22,7 @@
 
 ```mermaid
 mindmap
-  root((AI & Cloud))
+  root((AI with Cloud))
     Machine Learning
       Deep Learning
       Computer Vision
