@@ -1,37 +1,38 @@
-# Aboubacar Soumah
-**Python Developer & Data Science Enthusiast | AI Agent Architect**
+# Hi there, I'm Aboubacar Soumah 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abusooma&color=blueviolet&style=flat-square&label=Profile+Views)
+**Python Developer | Data Scientist | AI Agent Architect**
 
-Passionné par la transformation des données en insights actionables et la création d'agents IA intelligents pour automatiser les workflows complexes.
+![Profile Views](https://komarev.com/ghpvc/?username=Abusooma&color=0e75b6&style=flat)
+
+Transforming data into actionable insights and building intelligent AI agents to automate complex workflows. Passionate about leveraging Python's ecosystem to solve real-world problems through automation and data-driven solutions.
 
 ---
 
-## 🎯 Domaines d'Expertise
+## 🎯 Core Expertise
 
 ### 🐍 **Python Ecosystem**
-- **Frameworks Web**: Django, FastAPI pour des APIs robustes et scalables
-- **Automatisation**: Développement de solutions d'automatisation avancées
-- **Data Engineering**: Pipeline de données et traitement à grande échelle
+- **Web Frameworks**: Advanced Django & FastAPI development for scalable APIs
+- **Automation Solutions**: Building sophisticated automation systems
+- **Data Engineering**: Robust data pipelines and large-scale processing
 
-### 🤖 **Intelligence Artificielle & Agents**
-- **AI Agent Development**: Conception d'agents intelligents avec LangChain et LangGraph
-- **Workflow Automation**: Orchestration de tâches complexes via des agents autonomes
-- **Multi-Agent Systems**: Architecture et coordination d'agents collaboratifs
+### 🤖 **AI Agent Development**
+- **Intelligent Agents**: Designing smart agents with LangChain & LangGraph
+- **Workflow Orchestration**: Complex task automation through autonomous agents
+- **Multi-Agent Architecture**: Coordinating collaborative agent systems
 
 ### 📊 **Data Science & Analytics**
-- **Data Extraction**: Web scraping sophistiqué avec Playwright et Selenium
-- **Data Processing**: Analyse et transformation de datasets complexes
-- **Machine Learning**: Implémentation de modèles prédictifs et d'analyse
+- **Advanced Web Scraping**: Large-scale data extraction with Playwright & Selenium
+- **Data Processing**: Complex dataset analysis and transformation
+- **Machine Learning**: Predictive modeling and analytical implementations
 
-### 🔧 **Automation & Scraping**
-- **Web Scraping**: Extraction de données à grande échelle
-- **Process Automation**: Bots intelligents pour l'automatisation de tâches
-- **Data Pipeline**: Systèmes de collecte et traitement automatisés
+### 🔧 **Process Automation**
+- **Web Scraping**: Enterprise-level data extraction solutions
+- **Intelligent Bots**: Smart automation for repetitive tasks
+- **Data Pipelines**: Automated collection and processing systems
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
 ### **Core Technologies**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +49,7 @@ Passionné par la transformation des données en insights actionables et la cré
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 
-### **Data & Databases**
+### **Data & Storage**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -69,43 +70,36 @@ Passionné par la transformation des données en insights actionables et la cré
 
 ---
 
-## 🌟 Projets Récents
+## 🌟 Featured Projects
 
-### 🤖 **AI Agent Orchestrator**
-Système d'agents IA collaboratifs utilisant LangGraph pour l'automatisation de workflows complexes
+### 🤖 **Multi-Agent AI System**
+Collaborative AI agents using LangGraph for complex workflow automation and decision-making processes
 
-### 📊 **Data Mining Suite**
-Pipeline complet d'extraction et d'analyse de données avec Playwright et analyse avancée
+### 📊 **Enterprise Data Mining Platform**
+Complete data extraction and analysis pipeline with advanced Playwright scraping and ML insights
 
-### 🚀 **FastAPI Microservices**
-Architecture microservices scalable pour applications data-driven
+### 🚀 **High-Performance API Infrastructure**
+Scalable FastAPI microservices architecture for data-intensive applications
 
 ---
 
-## 🎓 Expertise Technique
+## 💻 Code Philosophy
 
 ```python
-expertise = {
-    "backend_development": ["Django", "FastAPI", "RESTful APIs"],
-    "ai_agents": ["LangChain", "LangGraph", "Multi-Agent Systems"],
-    "data_science": ["Pandas", "NumPy", "Scikit-learn", "Data Analysis"],
-    "automation": ["Selenium", "Playwright", "Web Scraping", "Process Automation"],
-    "databases": ["PostgreSQL", "MongoDB", "Redis"],
-    "architecture": ["Microservices", "API Design", "System Integration"]
+my_approach = {
+    "backend_excellence": ["Django", "FastAPI", "Scalable APIs"],
+    "ai_innovation": ["LangChain", "LangGraph", "Agent Orchestration"],
+    "data_mastery": ["Advanced Analytics", "ML Pipeline", "Data Engineering"],
+    "automation_expertise": ["Playwright", "Selenium", "Process Optimization"],
+    "architecture": ["Microservices", "System Design", "Performance Optimization"]
 }
 ```
 
 ---
 
-## 🤝 Collaborons Ensemble
+## 🤝 Let's Connect
 
-Toujours ouvert aux collaborations sur des projets innovants en data science, intelligence artificielle et automatisation !
+Open to collaborating on innovative projects in data science, AI automation, and intelligent systems!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacarsoumah/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumahaboubacarsopra@gmail.com)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
