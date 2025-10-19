@@ -9,7 +9,7 @@ Passionné par l'intersection entre biologie et informatique, je développe mes 
 ## 🧬 Mon Parcours
 
 **Licence en Biologie** - Spécialité Biotechnologie  
-**Reconversion en Informatique**
+**Reconversion en Informatique** - Focus Data Science & Bioinformatique
 
 Mon objectif : devenir chercheur en traitement et modélisation de données génomiques, en combinant ma formation en biologie avec mes compétences en programmation et analyse de données.
 
