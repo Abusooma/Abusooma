@@ -2,7 +2,7 @@
 
 **Bioinformaticien en devenir | Biologiste reconverti en Data Science**
 
-Passionné par l'intersection entre biologie et informatique, je développe mes compétences en analyse de données pour contribuer à la recherche en génomique.
+Passionné par l'intersection entre biologie et informatique,  développe mes compétences en analyse de données pour contribuer à la recherche en génomique.
 
 ---
 
