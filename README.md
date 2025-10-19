@@ -1,105 +1,62 @@
-# Hi there, I'm Aboubacar Soumah 👋
+# Aboubacar Soumah
 
-**Python Developer | Data Scientist | AI Agent Architect**
+**Bioinformaticien en devenir | Biologiste reconverti en Data Science**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abusooma&color=0e75b6&style=flat)
-
-Transforming data into actionable insights and building intelligent AI agents to automate complex workflows. Passionate about leveraging Python's ecosystem to solve real-world problems through automation and data-driven solutions.
+Passionné par l'intersection entre biologie et informatique, je développe mes compétences en analyse de données pour contribuer à la recherche en génomique.
 
 ---
 
-## 🎯 Core Expertise
+## 🧬 Mon Parcours
 
-### 🐍 **Python Ecosystem**
-- **Web Frameworks**: Advanced Django & FastAPI development for scalable APIs
-- **Automation Solutions**: Building sophisticated automation systems
-- **Data Engineering**: Robust data pipelines and large-scale processing
+**Licence en Biologie** - Spécialité Biotechnologie  
+**Reconversion en Informatique** - Focus Data Science & Bioinformatique
 
-### 🤖 **AI Agent Development**
-- **Intelligent Agents**: Designing smart agents with LangChain & LangGraph
-- **Workflow Orchestration**: Complex task automation through autonomous agents
-- **Multi-Agent Architecture**: Coordinating collaborative agent systems
-
-### 📊 **Data Science & Analytics**
-- **Advanced Web Scraping**: Large-scale data extraction with Playwright & Selenium
-- **Data Processing**: Complex dataset analysis and transformation
-- **Machine Learning**: Predictive modeling and analytical implementations
-
-### 🔧 **Process Automation**
-- **Web Scraping**: Enterprise-level data extraction solutions
-- **Intelligent Bots**: Smart automation for repetitive tasks
-- **Data Pipelines**: Automated collection and processing systems
+Mon objectif : devenir chercheur en traitement et modélisation de données génomiques, en combinant ma formation en biologie avec mes compétences en programmation et analyse de données.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔬 Compétences Techniques
 
-### **Core Technologies**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**Analyse de Données**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Manipulation et visualisation de données biologiques
+- Analyse statistique
 
-### **AI & ML**
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Développement**
+- Django pour applications web
+- Python pour l'automatisation et le traitement de données
+- Bases de données (PostgreSQL)
 
-### **Automation & Scraping**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-
-### **Data & Storage**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Biologie & Biotechnologie**
+- Compréhension des données génomiques
+- Protocoles de laboratoire et expérimentation
+- Approche scientifique rigoureuse
 
 ---
 
-## 📈 GitHub Analytics
+## 📚 En Apprentissage
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abusooma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abusooma&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abusooma&theme=tokyonight&hide_border=true)
-
-</div>
+- Bioinformatique et analyse de séquences
+- Machine Learning appliqué à la biologie
+- Pipelines de traitement de données génomiques
+- Statistiques avancées pour la recherche
 
 ---
 
-## 🌟 Featured Projects
+## 🎯 Projets d'Intérêt
 
-### 🤖 **Multi-Agent AI System**
-Collaborative AI agents using LangGraph for complex workflow automation and decision-making processes
-
-### 📊 **Enterprise Data Mining Platform**
-Complete data extraction and analysis pipeline with advanced Playwright scraping and ML insights
-
-### 🚀 **High-Performance API Infrastructure**
-Scalable FastAPI microservices architecture for data-intensive applications
+- Analyse de données génomiques
+- Visualisation de résultats biologiques
+- Automatisation de traitements de données
+- Applications web pour la recherche
 
 ---
 
-## 💻 Code Philosophy
+## 📫 Contact
 
-```python
-my_approach = {
-    "backend_excellence": ["Django", "FastAPI", "Scalable APIs"],
-    "ai_innovation": ["LangChain", "LangGraph", "Agent Orchestration"],
-    "data_mastery": ["Advanced Analytics", "ML Pipeline", "Data Engineering"],
-    "automation_expertise": ["Playwright", "Selenium", "Process Optimization"],
-    "architecture": ["Microservices", "System Design", "Performance Optimization"]
-}
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacarsoumah/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:soumahaboubacarsopra@gmail.com)
 
 ---
 
-## 🤝 Let's Connect
-
-Open to collaborating on innovative projects in data science, AI automation, and intelligent systems!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacarsoumah/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumahaboubacarsopra@gmail.com)
+*"Transformer les données biologiques en découvertes scientifiques"*
