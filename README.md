@@ -1,6 +1,6 @@
 # Aboubacar Soumah
 
-**Bioinformaticien en devenir | Biologiste reconverti en Data Science**
+**Bioinformaticien en devenir**
 
 Passionné par l'intersection entre biologie et informatique, je développe mes compétences en analyse de données pour contribuer à la recherche en génomique.
 
