@@ -4,7 +4,7 @@
 
 ### AI Product Builder · Solo Maker · Trainer
 
-*Je construis des outils IA pour de vrais workflows — pas des démos.*
+*I build AI-powered tools for real workflows — not demos.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aboubacar-douno)
 [![Hira](https://img.shields.io/badge/Hira-hiraengine.com-1A2E22?style=for-the-badge&logoColor=white)](https://hiraengine.com)
@@ -14,45 +14,46 @@
 
 ---
 
-## 🚀 Ce que je construis
+## 🚀 What I'm building
 
-> **[Hira](https://hiraengine.com)** — un copilote de recrutement IA qui aide les recruteurs à *comprendre* les candidats, pas juste à les filtrer par mots-clés.
+> **[Hira](https://hiraengine.com)** — an AI recruitment copilot that helps recruiters *understand* candidates instead of filtering them by keywords.
 
-Analyse de CV · Matching avec offres d'emploi · Mini-interviews automatisées · Export PDF · Dashboard recruteur
+CV Analysis · Job-Description Matching · Automated Candidate Interviews · PDF Export · Recruiter Dashboard
 
 ---
 
-## 🧠 Parcours
+## 🧠 My path
 
 ```
-Biologie (Master biotechnologie)
-        ↓
-Data Analytics & Machine Learning
-        ↓
-Full-Stack Development
-        ↓
-AI Product Builder  ← je suis ici
+Biology (Master's · Biotechnology)
+            ↓
+    Data Analytics & ML
+            ↓
+    Full-Stack Development
+            ↓
+    AI Product Builder   ← here
 ```
 
-Ce chemin n'est pas un accident — il façonne comment je construis :  
-je comprends les données *avant* de construire le pipeline.
+Not an accident — it shapes how I build:  
+I understand the data *before* designing the pipeline.
 
 ---
 
 ## ⚙️ Stack
 
-**IA & Agents**
+**AI & Agents**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-F4A823?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Backend**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frontend & Infra**
 
@@ -63,12 +64,12 @@ je comprends les données *avant* de construire le pipeline.
 
 ---
 
-## 📌 Projets actifs
+## 📌 Active projects
 
-| Projet | Description | Status |
-|--------|-------------|--------|
-| **[Hira](https://hiraengine.com)** | Copilote IA pour recruteurs | 🟢 En production |
-| **[Focusline](https://focusline.tn)** | Projet web secondaire | 🔵 Actif |
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[Hira](https://hiraengine.com)** | AI copilot for recruiters | 🟢 Live |
+| **[Focusline](https://focusline.tn)** | Web project | 🔵 Active |
 
 ---
 
@@ -76,22 +77,22 @@ je comprends les données *avant* de construire le pipeline.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=5DB87E&icon_color=5DB87E&text_color=F9F7F2)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abusooma&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5DB87E&icon_color=5DB87E&text_color=F9F7F2)](https://github.com/Abusooma)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=5DB87E&text_color=F9F7F2)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abusooma&layout=compact&hide_border=true&bg_color=0d1117&title_color=5DB87E&text_color=F9F7F2)](https://github.com/Abusooma)
 
 </div>
 
 ---
 
-## ✍️ Je forme aussi
+## ✍️ I also train
 
-J'anime des programmes de formation sur l'**IA & les opportunités numériques** — pour développeurs débutants et équipes qui veulent passer à l'action concrètement.
+I run training programs on **AI & Digital Opportunities** — for beginner developers and teams who want to move from theory to action.
 
 ---
 
 <div align="center">
 
-*"Build things people actually use."*
+*"Build tools people actually use."*
 
 </div>
