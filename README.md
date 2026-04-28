@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aboubacar Douno
+# Aboubacar Soumah
 
 ### AI Product Builder · Solo Maker · Trainer
 
