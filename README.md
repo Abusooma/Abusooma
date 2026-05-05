@@ -69,7 +69,7 @@ I understand the data *before* designing the pipeline.
 | Project | Description | Status |
 |---------|-------------|--------|
 | **[Hira](https://hiraengine.com)** | AI copilot for recruiters | 🟢 Live |
-| **[Focusline](https://focusline.tn)** | Web project | 🔵 Active |
+| **[Agencetek](https://www.agencetek.com)** | Web project | 🔵 Active |
 
 ---
 
