@@ -7,7 +7,7 @@
 *I build AI-powered web applications that solve real problems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aboubacar-douno)
-[![Agencetek](https://img.shields.io/badge/Agencetek-agencetek.com-1A2E22?style=for-the-badge&logoColor=white)](https://www.agencetek.com)
+[![Pysyntaxe](https://img.shields.io/badge/Agencetek-agencetek.com-1A2E22?style=for-the-badge&logoColor=white)](https://www.agencetek.com)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VOTRE_EMAIL)
 
 </div>
